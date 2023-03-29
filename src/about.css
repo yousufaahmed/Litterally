@@ -1,0 +1,16 @@
+.spaceabove {
+    border-top: 100px;
+}
+
+.aboutboxmain {
+    background: #000000;
+    padding: 50px;
+  }
+
+.pfpimage {
+    margin-top: 50px;
+    float: above;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}

@@ -1,0 +1,15 @@
+.buttonsize{
+    height: 200px;
+    width: 300px;
+};
+
+.container {
+    position: relative;
+    text-align: center;
+    color:white;
+};
+
+.formmessage{
+    height:800px;
+}
+

@@ -1,0 +1,49 @@
+.container {
+    position: relative;
+    text-align: center;
+    color:white;
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .earth-img {
+    max-width: 100%;
+    /* opacity: 60%; */
+  }
+
+  .title1 {
+    font-size: 70px;
+    -webkit-text-stroke: 0.5px black;
+  }
+
+  .inputboxmain {
+    background: #000000;
+    padding: 50px;
+  }
+
+  .inputtitle {
+    padding-bottom: 30px;
+  }
+
+  .inputboxinput {
+    width: 400px;
+    height: 40px;
+  }
+
+  .button1 {
+    font-size: large;
+    background: green;
+    width: 400px;
+    height: 40px;
+  }
+
+  .title2 {
+    font-size: 50px;
+    padding-bottom: 30px;
+  }
+
